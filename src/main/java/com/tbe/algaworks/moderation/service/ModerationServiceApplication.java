@@ -1,4 +1,4 @@
-package com.tbe.algaworks.moderation_service;
+package com.tbe.algaworks.moderation.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
